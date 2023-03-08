@@ -1,0 +1,114 @@
+:root {
+    --nord0:  #2e3448;
+    --nord1:  #384252;
+    --nord2:  #434c5e;
+    --nord3:  #4c566a;
+    --nord4:  #d8dee9;
+    --nord5:  #e5e9f0;
+    --nord6:  #eceff4;
+    --nord7:  #8fbcbb;
+    --nord8:  #88c0d0;
+    --nord9:  #81a1c1;
+    --nord10: #5e81ac;
+    --nord11: #8f616a;
+    --nord12: #d08770;
+    --nord13: #ebcb8b;
+    --nord14: #a38e8c;
+    --nord15: #848ead;
+    --font: Arial, Helvetica;
+    
+}
+
+
+
+body {
+    font-family: Arial, Helvetica;
+    color: #101720;
+}
+
+header {
+    width: 960px;
+    margin: 0 auto;
+}
+
+div h1 input{
+    width: 700px;
+    margin: 0 auto;
+}
+
+div h2 input{
+    width: 700px;
+    margin: 0 auto;
+}
+
+div h3 input{
+    width: 700px;
+    margin: 0 auto;
+}
+
+div h4 input{
+    width: 700px;
+    margin: 0 auto;
+}
+
+div p input{
+    width: 345px;
+    margin: 0 auto;
+}
+
+section {
+    width: 960px;
+    margin: 0 auto;
+}
+label {
+    <i class="fa-solid fa-user"></i>
+}
+i input {
+    width: 700px;
+    margin: 0 auto;
+}
+b input {
+    width: 345px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #c7d3d4;
+    color: #1a3534;
+    padding-top: 16px;
+    padding-left: 16px;
+}
+ul {
+    list-style-type: circle;
+}
+section {
+    display: flex;
+}
+
+article {
+    width: 960px;
+    margin: 0 auto;
+}
+
+aside {
+    width: 960px;
+    margin: 0 auto;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+    color: #7c261e;
+    font-weight: bold;
+}
+
+progress {
+    margin-left: 8px;
+}
+.flex {
+    display: flex;
+    }
